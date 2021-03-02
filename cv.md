@@ -51,14 +51,14 @@ for offset in offsets:
 <h4 id="key-skills">Key skills</h4>
 <p>Drupal API, CSS, HTML, PHP5, MySQL, Git, Linux, XML, Python, Jenkins, BigQuery, Tableau, Pandas, Redmine</p>
 
-<h4 id="professional-experience">Professional experience</h4>
+<h4 id="experience">Professional experience</h4>
 <p>January 2018 — currently: Functional AI, <strong>Software engineer</strong></p>
 
 <h4 id="education">Education</h4>
 <ul>
-  <li>Year of Graduation: 2015</li>
-  <li>Name of Institution: BSEU</li>
-  <li>Qualification: economist-manager in a travel industry</li>
+  <li>Year of Graduation: 2009</li>
+  <li>Name of Institution: BSU</li>
+  <li>Qualification: Master of Science in History</li>
 </ul>
 
 <h4 id="languages">Languages</h4>
