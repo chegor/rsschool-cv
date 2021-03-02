@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -23,7 +21,6 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
 
-      <h1><a href="https://chegor.github.io/rsschool-cv/">rsschool-cv</a></h1>
 
 
       <h2 id="chegor">Eygor Malchevski</h2>
